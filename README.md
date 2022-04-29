@@ -1,6 +1,9 @@
 # hello-world
 my first repository 🤓
 
-[found this element on someone else's hello world pull request] 🍾
+this is me 😏
 
-have no idea what it means 🤷‍♀️ but here I am using it 😏
+![EB746D67-234B-4D04-B55E-90CDA620D983](https://user-images.githubusercontent.com/104649620/166055816-3bb7f67f-b860-4a42-92b3-8c44dcf6f06b.jpeg)
+
+
+& I love figuring this out on my own 😏
